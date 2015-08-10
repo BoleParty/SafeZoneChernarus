@@ -2220,8 +2220,8 @@ class OutroWin
 };
 class OutroLoose
 {
- addOns[] = {"aia_chernarus_summer_config"};
- addOnsAuto[] = {"aia_chernarus_summer_config"};
+ addOns[] = {"aia_chernarus_config"};
+ addOnsAuto[] = {"aia_chernarus_config"};
  randomSeed = 10755213;
  class Intel
  {
