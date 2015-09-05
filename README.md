@@ -1,4 +1,4 @@
-Orignial script by Friendly -
+Original script by Friendly -
 Edit for Chernarus by BoleParty[TGM]
 
 There`s another option out there which is working with ProtectionZones and you could use that one instead. Do what you feel like:)
